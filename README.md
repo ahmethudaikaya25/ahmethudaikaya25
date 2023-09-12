@@ -24,7 +24,6 @@ dependency injection, view binding, data binding, retrofit, and roomdb technolog
 | Git version control and code collaborator, |
 | Agile system using trello task management system, |
 | I made development via scrum system with a team of 5 people. |
-||
 
 | <h2>System Administrator</h2>     |                  |
 | ---                   | ---              |
@@ -35,7 +34,6 @@ dependency injection, view binding, data binding, retrofit, and roomdb technolog
 | Preparing to audits and managing audit process, |                    
 | Managing, monitoring, creating and maintenance of docker, java, application services, proxmox, mysql, apache, nginx servers, |
 | Analyzing problems and solving them, |
-||
 
 
 <h2>Skills</h2>
