@@ -1,17 +1,19 @@
-
-<div>
+<header>
     <h1 align="center">Ahmet Hüdai Kaya</h1>
     <h3 align="center"> Android developer</h2>
-    <img align="right" src="photo.jpg" width=120px margin=10px/>
-</div>
+    <img align="right" src="photo.jpg" width=150px margin=10px/>
+</header>
 
+<div>
 <p>
 I have been working as an Android Developer at Hugin company for the past one years. During this time, I
 have developed POS device applications with Kotlin and Java development languages. Additionally, I have
 some software projects on my GitHub that showcase my work. I have experience with MVVM architecture,
 dependency injection, view binding, data binding, retrofit, and roomdb technologies.
 </p>
+</div>
 
+<div>
 <h2 align="center"> Work History </h2>
 
 | <h2>Android Developer</h2>     |                  |
@@ -35,7 +37,9 @@ dependency injection, view binding, data binding, retrofit, and roomdb technolog
 | Managing, monitoring, creating and maintenance of docker, java, application services, proxmox, mysql, apache, nginx servers, |
 | Analyzing problems and solving them, |
 
+</div>
 
+<div>
 <h2>Skills</h2>
 <p>
 Kotlin, Java, Android, MVVM, Data Binding,
@@ -52,6 +56,8 @@ Sqlite, Couchbase
 | English                       | Turkish      |
 | ---                           | ---          |
 | Full Professional Proficiency | Native or Bilingual Proficiency        |       
-
+</div>
+<div>
 <h2>Interests</h2>
 Swimming, Reading book, Preparing food, Researching technology trends
+</div>
